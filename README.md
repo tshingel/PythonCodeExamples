@@ -6,7 +6,7 @@ PythonCodeExamples
 QuickSort.txt  are data files to test quicksort.py. 
 
 
-2. shortestpath.py - runs Dijkstra's shortest-path algorithm. Require HeapDict module which can be downloaded from 
+2. shortestpath.py - runs Dijkstra's shortest-path algorithm, requires HeapDict module which can be downloaded from 
 https://pypi.python.org/pypi/HeapDict/1.0.0 
 
 dijkstraData.txt - file to test the algorithm. 
